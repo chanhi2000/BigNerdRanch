@@ -1,6 +1,42 @@
 # Cocoa Programming for OS X, 5th Edition
-
 This branch contains solutions and the companion guide for Swift 2.0.  If you are using Swift 1.2, see [the swift1-2 branch](../../tree/swift1-2).
+
+## Table of Contents
+- #### Chapter01: Starter
+- #### Chapter02: Swift
+- #### Chapter03: Swift2
+- #### Chapter05: Controls
+- #### Chapter06: Delegation
+- #### Chapter07: TableView
+- #### Chapter08: KVC
+- #### Chapter09: NSArrayController
+- #### Chapter10: Formatters
+- #### Chapter11: Undo
+- #### Chapter12: Archiving
+- #### Chapter13: CoreData
+- #### Chapter14: UserDefaults
+- #### Chapter15: AlertPanel
+- #### Chapter16: Notification
+- #### Chapter17: CustomViews
+- #### Chapter18: MouseEvents
+- #### Chapter19: KeyboardEvents
+- #### Chapter20: DrawingText
+- #### Chapter21: Pasteboard
+- #### Chapter22: DragDrop
+- #### Chapter23: NSTimer
+- #### Chapter24: Sheets
+- #### Chapter25: Autolayout
+- #### Chapter26: Localization
+- #### Chapter27: Printing
+- #### Chapter28: WebServices
+- #### Chapter29: UnitTest
+- #### Chapter30: NSViewController
+- #### Chapter31: ViewSwapping
+- #### Chapter32: Storyboards
+- #### Chapter33: CoreAnimation
+- #### Chapter34: Concurrency
+- #### Chapter35: NSTask
+- #### Chapter36: Distribution
 
 ## Solutions and Errata
 
