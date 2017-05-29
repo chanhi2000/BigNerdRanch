@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  RGBWell
+//  SpeakLine
 //
 //  Created by LeeChan on 5/29/17.
 //  Copyright © 2017 MarkiiimarK. All rights reserved.
